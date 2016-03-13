@@ -3,7 +3,7 @@
 @section('title', '书籍类别')
 
 @section('content')
-<div class="weui_cells_title">选择书籍类别</div>
+<div class="weui_cells_title">选择商品类别</div>
 <div class="weui_cells weui_cells_split">
     <div class="weui_cell weui_cell_select">
         <div class="weui_cell_bd weui_cell_primary">
